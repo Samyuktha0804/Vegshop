@@ -75,3 +75,8 @@ label{
     text-align: left;
     font-size: larger;
 }
+
+button a{
+    color:white;
+    text-decoration:none;
+}
